@@ -54,4 +54,4 @@ git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
 #
 # ------------------------------- Additional customizations ends -------------------------------
 
-git clone https://github.com/yandexru45/podkop-evolution.git package/lean/luci-app-package/lean/
+git clone https://github.com/yandexru45/podkop-evolution.git package/lean/luci-app-podkop
