@@ -53,3 +53,5 @@ git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
 # git apply ../config/patches/{0001*,0002*}.patch --directory=feeds/luci
 #
 # ------------------------------- Additional customizations ends -------------------------------
+
+git clone https://github.com/yandexru45/podkop-evolution.git package/luci-app-podkop
