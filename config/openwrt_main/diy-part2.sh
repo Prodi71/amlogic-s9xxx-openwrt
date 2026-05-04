@@ -55,3 +55,5 @@ git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
 # ------------------------------- Additional customizations ends -------------------------------
 
 git clone https://github.com/yandexru45/podkop-evolution.git package/lean/luci-app-podkop
+git clone https://github.com/immortalwrt/immortalwrt.git package/lean/luci-app-vlmcsd
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
